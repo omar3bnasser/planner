@@ -17,6 +17,7 @@
           "-webkit-font-feature-settings"
         ]
       }
-    ]
+    ],
+    "typescript-config/consistent-casing": "off"
   }
 }
